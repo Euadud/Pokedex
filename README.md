@@ -33,6 +33,6 @@ Engajamento do recrutador/cliente → um projeto assim desperta curiosidade e in
 ## 🚀 Sobre mim
 📈Desenvolvendo projetos pessoais
 
-📝Cursando ciencias da computação
+📝Cursando Analise e desenvolvimento de sistemas
 
 💻Aprendendo um pouco sobre java
